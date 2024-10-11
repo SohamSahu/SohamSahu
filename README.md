@@ -3,22 +3,21 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'SohamSahu';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+class Bio extends JavaDeveloper_WebDev/Designer {
+  name     = 'Soham Sahu';
+  title    = 'FullStack Web & App Dev/Designer';
+  company  = 'Open For Oppurtunities | Willing to Relocate';
+  location = 'Kolkata, West Bengal, India';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['JavaScript', 'PHP', 'Java'];
+  databases  = ['MySQL', 'OracleSQL'];
+  Tech Stack and Softwares = ['Full Stack', 'Web/App' , 'Figma'];
 }
 ```
 ----
-Credit: [thompsonemerson](https://github.com/thompsonemerson)
 
-Last Edited on: 23/09/2020
+Last Edited on: 12/10/2024
